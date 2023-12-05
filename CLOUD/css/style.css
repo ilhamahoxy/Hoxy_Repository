@@ -1,0 +1,7 @@
+body {
+     color: #fff;
+     background-image: url('../images/contoh-gambar.jpg');
+     background-size: cover;
+     background-attachment: fixed;
+     background-repeat: no-repeat;
+}
